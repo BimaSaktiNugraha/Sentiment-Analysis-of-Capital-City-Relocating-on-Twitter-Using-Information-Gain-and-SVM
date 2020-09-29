@@ -1,0 +1,6 @@
+1. Prologue
+2. Preprocessing
+3. Splitting
+4. Classifying
+5. Extraction and Selection
+6. Classifying IG SVM
